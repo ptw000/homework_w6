@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Homework_w6</string>
+    <string name="add">ADD</string>
+    <string name="title">Title</string>
+    <string name="user_name">User\'s name</string>
+    <string name="unassigned">Unassigned</string>
+    <string name="assigned">Assigned</string>
+    <string name="completed">Completed</string>
+    <string name="assigned_to">Assigned to:</string>
+    <string name="assign_task">Assign Task</string>
+    <string name="detail_task">Detail Task</string>
+    <string name="task">TASK</string>
+    <string name="list_user">List user</string>
+    <string name="user">User</string>
+    <string name="all">All</string>
+    <string name="uncompleted">Uncompleted</string>
+    <string name="list_task">LIST TASK</string>
+</resources>
